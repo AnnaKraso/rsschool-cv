@@ -1,5 +1,5 @@
 
-### __ANNA KRASOVSKAYA__ ![My photo](mapic.png)
+### __ANNA KRASOVSKAYA__ ![My photo](Mapic.png)
 ---
 ### CONTACTS
 mail: `annkraso@gmail.com`
